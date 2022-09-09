@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/CODES/PROBLEM SOLVING/HackerRank",
-      "program": "g:/CODES/PROBLEM SOLVING/HackerRank/build/Debug/outDebug",
+      "cwd": "g:/CODES/PROBLEM SOLVING/Array Problems - Geeks For Geeks/Level 1",
+      "program": "g:/CODES/PROBLEM SOLVING/Array Problems - Geeks For Geeks/Level 1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
